@@ -1,0 +1,14 @@
+*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/references/
+/references/*
+!/references/experience.md
+!/references/decisions.md
+!/references/voice.md
+!/references/scenarios.md
+!/references/boundaries.md
+!/evals/
+/evals/*
+!/evals/cases.json
