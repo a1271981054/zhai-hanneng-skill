@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "records": 389824,
+  "released_records": 933,
+  "withheld_records": 388891,
+  "source_split_rows": 389829,
+  "preserves_original_order": false,
+  "contains_original_timestamps": false,
+  "contains_original_speaker_ids": false,
+  "release_policy": "Exact approved text from self messages only. All other records are withheld placeholders. Coverage does not mean full text or full semantic release.",
+  "parts": [
+    {
+      "file": "part-001.jsonl.gz",
+      "records": 25000,
+      "sha256": "5c8fb6fb6ce8ef22e0951e9f4116000a0ec16592bc8edec44b18f6275bbfe43a"
+    },
+    {
+      "file": "part-002.jsonl.gz",
+      "records": 25000,
+      "sha256": "ed2742c92e3022fe4a4eccfe4e8fa58d0daed83becc50817d0c608b272cbc8a4"
+    },
+    {
+      "file": "part-003.jsonl.gz",
+      "records": 25000,
+      "sha256": "e6f4311de1c0f3d93cbd6ffed07eacc12d3fb788031e62cfa09b933f682f3460"
+    },
+    {
+      "file": "part-004.jsonl.gz",
+      "records": 25000,
+      "sha256": "153421d3f5d41b9070d7f715f3fddfeeabddffc29fa0903e174cdca029e3ffde"
+    },
+    {
+      "file": "part-005.jsonl.gz",
+      "records": 25000,
+      "sha256": "8a3f0d974fdbda151f7ef2c6f8651fb4179ec99d0c3607fa153f5cbd35d14697"
+    },
+    {
+      "file": "part-006.jsonl.gz",
+      "records": 25000,
+      "sha256": "d0b1ba20b642d66d271748858f0fe139ec38efb9e352ecfd5ea0d409f4f78919"
+    },
+    {
+      "file": "part-007.jsonl.gz",
+      "records": 25000,
+      "sha256": "2592284f63c2889713eb52460a640b54018c0c9c0530f9aa4bfa5edaed502205"
+    },
+    {
+      "file": "part-008.jsonl.gz",
+      "records": 25000,
+      "sha256": "8038c7018664e0a00224c17c55f48fad273aba573eefd180198491bece2f307f"
+    },
+    {
+      "file": "part-009.jsonl.gz",
+      "records": 25000,
+      "sha256": "b8d9b291f903897183f5fd35ac5018273f5a2acc0bc688ea6d864fda3b510e8b"
+    },
+    {
+      "file": "part-010.jsonl.gz",
+      "records": 25000,
+      "sha256": "ee0ca8d8c6241e9c4138a659e228bb5334c7d86ec0d7a61126da490e895f6b3c"
+    },
+    {
+      "file": "part-011.jsonl.gz",
+      "records": 25000,
+      "sha256": "bcc66b9e252630a203e1e2d8f6e83c41cfd42d25ceb7689296b4df79de7b65dc"
+    },
+    {
+      "file": "part-012.jsonl.gz",
+      "records": 25000,
+      "sha256": "9486ff685e3f5adb00d8f34998b4d790ee8f37773bd2bfcd3751983e0fbf2788"
+    },
+    {
+      "file": "part-013.jsonl.gz",
+      "records": 25000,
+      "sha256": "8548a1e07c6ba90ef80b3653286d4150bffa9d8318fd285ed663a26b8523f3be"
+    },
+    {
+      "file": "part-014.jsonl.gz",
+      "records": 25000,
+      "sha256": "9a03d0043a8c3fe980129e2ce9855b93bee69519ef859de278adb76168c36d68"
+    },
+    {
+      "file": "part-015.jsonl.gz",
+      "records": 25000,
+      "sha256": "973ebc4ad9e3d67e366f18ce85ff9c02952c682c2db8fa35b8834f79f9f1d693"
+    },
+    {
+      "file": "part-016.jsonl.gz",
+      "records": 14824,
+      "sha256": "3b3310a55632650bf0689e1865a719393a838cf1baf3b3fe9250f0735eb2f6bf"
+    }
+  ]
+}
